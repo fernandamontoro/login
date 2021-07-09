@@ -1,0 +1,8 @@
+host: http://tarea.colima2021.com/
+base de datos: http://db.colima2021.com/
+usuario:fernanda
+contraseña: =)(!%4Ah_&m
+
+servidor de ftp: colima2021.com
+usuario de ftp: tarea@colima2021.com
+contraseña del ftp: Fernanda.2021
